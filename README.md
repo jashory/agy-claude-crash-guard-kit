@@ -13,7 +13,7 @@
 
 **Stop losing 500+ step coding sessions to permanent `HTTP 400 INVALID_ARGUMENT` and `30.000MB message limit` trajectory poisoning.**
 
-Built by **HM Shihabuddin Jashory (Shihab)** — [Vision Flow](https://visionflowgroup.com)
+Authored by **Scientist HM Shihabuddin Jashory (Shihab)** (ORCID: [0009-0003-4163-0092](https://orcid.org/0009-0003-4163-0092) · Wikidata: [Q141910532](https://www.wikidata.org/wiki/Q141910532)) · Research & Evaluation Ecosystem with **MD Rafiul Islam Shubho** (Researcher, AI Evaluator & RLHF Specialist) — **[Vision Flow Group](https://visionflowgroup.com)** (`Q141910527`) · [Research Hub](https://jashory.github.io/hqas8-autonomous-agentic-governance/) · [Tools Hub](https://go.visionflowgroup.com/) · [Studio](https://studio.visionflowgroup.com/)
 
 ---
 
