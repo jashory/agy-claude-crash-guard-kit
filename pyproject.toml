@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "agy-claude-crash-guard-kit"
-version = "2.0.0"
+version = "2.1.0"
 description = "PreToolUse Multimodal Crash Firewall, Post-Edit Verification Gate & Desktop-to-IDE Session Sync for Antigravity and Claude Code"
 readme = "README.md"
 license = { text = "MIT" }

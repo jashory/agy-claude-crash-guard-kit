@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it alongside its peer-archived AMCG-3 / HQAS-8 specifications below."
+title: "agy-claude-crash-guard-kit: Multimodal PDF/Media Crash Firewall & Anti-Compaction Trajectory Guard"
+version: "2.1.0"
+date-released: "2026-11-15"
+license: "MIT"
+repository-code: "https://github.com/jashory/agy-claude-crash-guard-kit"
+url: "https://jashory.github.io/agy-claude-crash-guard-kit/"
+doi: "10.5281/zenodo.24107586"
+authors:
+  - family-names: "Jashory"
+    given-names: "HM Shihabuddin"
+    alias: "MD SHIHABUDDIN / HM Shihab"
+    orcid: "https://orcid.org/0009-0003-4163-0092"
+    affiliation: "Vision Flow Group (Wikidata Q141910527)"
+  - family-names: "Shubho"
+    given-names: "MD Rafiul Islam"
+    orcid: "https://orcid.org/0009-0009-9956-4511"
+    affiliation: "Vision Flow Group (Wikidata Q141910527)"
+keywords:
+  - amcg-3
+  - anti-compaction
+  - ai-agent-reliability
+  - pretooluse-hook
+  - multimodal-firewall
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Jashory"
+      given-names: "HM Shihabuddin"
+      orcid: "https://orcid.org/0009-0003-4163-0092"
+  title: "Eliminating Auto-Compaction Amnesia and Unverified Execution in Autonomous LLM Agents (AMCG-3)"
+  year: 2026
+  doi: "10.5281/zenodo.24107586"
+  url: "https://doi.org/10.5281/zenodo.24107586"
