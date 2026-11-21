@@ -25,3 +25,9 @@ agy-crash-guard-install = "install:main"
 
 [tool.setuptools]
 py-modules = ["crash_guard", "session_sync", "install"]
+
+[project.urls]
+Homepage = "https://jashory.github.io/agy-claude-crash-guard-kit/"
+Repository = "https://github.com/jashory/agy-claude-crash-guard-kit"
+Issues = "https://github.com/jashory/agy-claude-crash-guard-kit/issues"
+"Organization" = "https://visionflowgroup.com/"
