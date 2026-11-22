@@ -714,6 +714,7 @@ def main() -> None:
     parser.add_argument("--diagnose-transcript", type=str, default="", help="Diagnose specific transcript.jsonl")
     parser.add_argument("--test-file", type=str, default="", help="Test file path against PreToolUse guard")
     parser.add_argument("--show-popup", type=str, default="", help="Show GUI popup from JSON file")
+    parser.add_argument("--version", action="version", version="%(prog)s 2.1.1")
     args = parser.parse_args()
 
     if args.show_popup:
